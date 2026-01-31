@@ -2,4 +2,6 @@
 
 # play  
 # eat 
-# sleep 
+# sleep  
+# go to school
+# music
